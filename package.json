@@ -1,0 +1,25 @@
+{
+  "name": "selvera-logging",
+  "version": "0.1.0",
+  "description": "Selvera internal-use logging wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selvera/npm-logging.git"
+  },
+  "keywords": [
+    "selvera"
+  ],
+  "author": "Selvera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selvera/npm-logging/issues"
+  },
+  "homepage": "https://github.com/selvera/npm-logging#readme",
+  "dependencies": {
+
+  }
+}
